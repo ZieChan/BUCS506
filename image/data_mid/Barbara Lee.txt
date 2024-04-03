@@ -1,0 +1,25 @@
+Barbara Lee
+72
+
+fundraising: 55
+election: 25
+support: 11
+progressive: 5
+campaign: 32
+grassroots: 5
+donation: 6
+endorsement: 6
+Senate: 6
+
+determination: 9
+support: 50
+encouragement: 28
+urgency: 21
+hope: 7
+supportive: 6
+progressive: 8
+
+
+positive: 72
+
+California: 51

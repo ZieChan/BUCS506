@@ -1,0 +1,69 @@
+Joe Biden
+168
+
+security: 8
+policy: 6
+fundraising: 44
+politics: 18
+survey: 8
+approval: 6
+election: 68
+poll: 14
+contribution: 8
+support: 32
+campaign: 42
+border: 6
+legislation: 9
+endorsement: 8
+military: 6
+Senate: 5
+donation: 18
+patriotism: 6
+immigration: 6
+strategy: 5
+democracy: 13
+Biden: 5
+polling: 8
+
+support: 116
+supportive: 16
+endorsement: 19
+opposition: 50
+critique: 14
+rallying: 6
+progress: 14
+threat: 6
+commitment: 8
+criticism: 28
+victory: 8
+dedication: 10
+encouragement: 32
+failure: 12
+danger: 6
+protection: 7
+leadership: 16
+advocacy: 15
+defeat: 7
+urgency: 6
+challenge: 9
+historic progress: 6
+charges: 6
+attack: 8
+scheming: 8
+corruption: 6
+
+
+positive: 67
+negative: 95
+neutral: 12
+unspecified: 1
+
+02120: 4
+Missouri: 2
+Virginia: 1
+Not specified: 1
+MA: 1
+Nevada: 2
+Iowa: 1
+Massachusetts: 1
+Wisconsin: 1

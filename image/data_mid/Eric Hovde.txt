@@ -1,0 +1,36 @@
+Eric Hovde
+88
+
+fundraising: 45
+campaign: 66
+deadline: 5
+election: 34
+advertising: 6
+donation: 25
+funding: 7
+support: 12
+advertisement: 6
+endorsement: 5
+Senate: 7
+senate: 5
+
+support: 78
+encouragement: 29
+criticism: 13
+opposition: 54
+urgency: 23
+wealthy: 11
+self-funding: 7
+mobilization: 6
+spending: 9
+challenge: 20
+competition: 9
+threat: 8
+grassroots: 9
+right-wing: 6
+
+
+negative: 86
+neutral: 2
+
+Wisconsin: 70

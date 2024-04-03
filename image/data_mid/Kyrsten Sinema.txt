@@ -1,0 +1,25 @@
+Kyrsten Sinema
+48
+
+campaign: 40
+fundraising: 20
+election: 12
+donation: 23
+Senate: 12
+deadline: 7
+
+support: 38
+urgency: 12
+opposition: 29
+encouragement: 24
+competition: 8
+defeat: 6
+neutral: 6
+uncertainty: 7
+
+
+neutral: 36
+negative: 11
+positive: 1
+
+Arizona: 29

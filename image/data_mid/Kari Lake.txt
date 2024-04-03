@@ -1,0 +1,55 @@
+Kari Lake
+178
+
+fundraising: 91
+urgency: 21
+campaign: 117
+election: 54
+support: 14
+politics: 13
+endorsement: 10
+donation: 71
+deadline: 9
+Senate: 22
+democracy: 5
+senate: 8
+competition: 6
+patriotism: 5
+strategy: 5
+
+determination: 11
+support: 143
+opposition: 88
+urgency: 32
+mobilization: 8
+radical: 13
+dedication: 6
+dangerous: 7
+encouragement: 75
+supportive: 7
+motivation: 16
+criticism: 12
+defeat: 27
+competition: 15
+opponent: 6
+challenge: 19
+extremism: 6
+prevention: 9
+victory: 8
+exclusion: 6
+request: 7
+help: 6
+solicitation: 6
+neutral: 6
+urgent: 7
+endorsement: 9
+uncertainty: 7
+leading: 7
+
+
+positive: 75
+negative: 101
+neutral: 2
+Positive: 2
+
+Arizona: 141

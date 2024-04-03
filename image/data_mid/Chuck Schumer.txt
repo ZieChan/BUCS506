@@ -1,0 +1,18 @@
+Chuck Schumer
+21
+
+campaign: 5
+fundraising: 16
+support: 8
+election: 14
+
+opposition: 18
+challenge: 8
+support: 17
+encouragement: 9
+
+
+negative: 13
+positive: 8
+unspecified: 1
+

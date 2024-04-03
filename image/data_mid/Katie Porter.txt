@@ -1,0 +1,33 @@
+Katie Porter
+111
+
+fundraising: 60
+election: 52
+support: 20
+campaign: 45
+donation: 24
+Election: 5
+urgency: 9
+advertising: 5
+strategy: 12
+funding: 5
+advertisement: 12
+
+support: 92
+endorsement: 6
+advocacy: 10
+determination: 10
+encouragement: 41
+urgency: 32
+appeal: 9
+dedication: 8
+motivation: 11
+opposition: 15
+strategy: 9
+manipulation: 12
+competition: 8
+
+
+positive: 111
+
+California: 46

@@ -1,0 +1,18 @@
+Katrina Christiansen
+32
+
+campaign: 26
+donation: 11
+election: 10
+fundraising: 17
+
+support: 27
+grassroots: 10
+encouragement: 14
+opposition: 19
+criticism: 13
+
+
+positive: 32
+
+North Dakota: 20

@@ -1,0 +1,21 @@
+Kevin Cramer
+48
+
+fundraising: 22
+election: 14
+support: 7
+donation: 13
+campaign: 34
+
+support: 40
+encouragement: 18
+urgency: 8
+opposition: 20
+grassroots: 9
+criticism: 13
+
+
+positive: 19
+negative: 29
+
+North Dakota: 28

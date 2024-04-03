@@ -1,0 +1,67 @@
+Jacky Rosen
+173
+
+campaign: 87
+fundraising: 115
+election: 78
+democracy: 8
+support: 30
+donation: 35
+Senate: 17
+deadline: 7
+reelection: 5
+faith: 6
+Nevada: 9
+urgency: 21
+senate: 5
+politics: 20
+survey: 5
+strategy: 6
+
+support: 184
+urgency: 67
+appeal: 6
+encouragement: 66
+recruitment: 11
+opposition: 86
+solicitation: 10
+competition: 16
+commitment: 11
+defense: 8
+criticism: 13
+dedication: 7
+request: 6
+determination: 13
+threat: 14
+help: 6
+motivation: 15
+fight: 8
+strategy: 7
+gratitude: 12
+opponent: 9
+partnership: 8
+challenge: 19
+supportive: 7
+urgent: 14
+endorsement: 11
+collaboration: 8
+grassroots: 7
+GOP: 7
+progress: 12
+mobilization: 7
+defeat: 6
+extremist: 6
+unspecified: 8
+extremism: 6
+
+
+positive: 171
+requires support: 1
+neutral: 2
+
+Nevada: 150
+Not specified: 1
+N/A: 1
+unspecified: 1
+Wisconsin: 1
+not specified: 1

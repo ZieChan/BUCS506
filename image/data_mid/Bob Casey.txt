@@ -1,0 +1,55 @@
+Bob Casey
+182
+
+campaign: 111
+donation: 73
+advertisement: 9
+reelection: 6
+fundraising: 92
+election: 63
+politics: 8
+support: 29
+senate: 10
+Senate: 26
+elections: 7
+funding: 6
+urgency: 7
+endorsement: 7
+deadline: 5
+competition: 5
+
+support: 180
+encouragement: 91
+urgency: 49
+opposition: 69
+competition: 17
+wealth: 7
+gratitude: 13
+criticism: 23
+mention: 7
+urgent: 6
+dedication: 7
+advocacy: 15
+endorsement: 25
+solicitation: 13
+motivation: 9
+challenge: 19
+supportive: 12
+critique: 7
+negative: 6
+wealthy: 7
+mobilization: 9
+grassroots: 6
+encouraging: 7
+victory: 7
+appeal: 6
+
+
+positive: 161
+negative: 16
+neutral: 5
+
+Pennsylvania: 135
+PA: 8
+Ohio: 1
+Wisconsin: 1

@@ -1,0 +1,38 @@
+Tim Kaine
+81
+
+fundraising: 36
+election: 25
+politics: 9
+deadline: 8
+campaign: 47
+support: 9
+endorsement: 5
+military: 7
+donation: 9
+leadership: 7
+
+leadership: 10
+support: 36
+encouragement: 20
+dedication: 13
+opposition: 35
+criticism: 19
+supportive: 12
+patriotic: 8
+unmentioned: 7
+endorsement: 8
+failure: 6
+determination: 8
+urgency: 8
+defeat: 10
+unspecified: 9
+service: 7
+
+
+negative: 64
+neutral: 13
+positive: 2
+unspecified: 1
+
+Virginia: 53

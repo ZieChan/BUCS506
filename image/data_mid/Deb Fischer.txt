@@ -1,0 +1,23 @@
+Deb Fischer
+39
+
+fundraising: 28
+election: 25
+campaign: 32
+donation: 11
+senate: 5
+
+support: 34
+encouragement: 19
+opposition: 29
+challenge: 8
+defeat: 8
+criticism: 8
+critique: 9
+disapproval: 13
+
+
+negative: 39
+
+Nebraska: 37
+NE: 1

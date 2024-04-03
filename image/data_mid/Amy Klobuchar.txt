@@ -1,0 +1,27 @@
+Amy Klobuchar
+70
+
+fundraising: 41
+campaign: 52
+election: 17
+support: 17
+donation: 29
+deadline: 6
+reelection: 26
+healthcare: 5
+
+support: 65
+encouragement: 43
+motivation: 11
+appreciation: 6
+gratitude: 16
+progress: 12
+momentum: 6
+urgency: 6
+
+
+positive: 70
+
+Minnesota: 60
+Massachusetts: 4
+MA: 2

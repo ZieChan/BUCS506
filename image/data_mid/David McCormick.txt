@@ -1,0 +1,26 @@
+David McCormick
+45
+
+campaign: 30
+donation: 23
+advertisement: 5
+fundraising: 22
+election: 17
+support: 6
+
+support: 38
+encouragement: 23
+urgency: 10
+opposition: 30
+competition: 10
+criticism: 12
+endorsement: 7
+challenge: 10
+
+
+negative: 43
+positive: 1
+neutral: 1
+
+Pennsylvania: 34
+PA: 1

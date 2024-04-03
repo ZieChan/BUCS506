@@ -1,0 +1,19 @@
+Elizabeth Warren
+29
+
+fundraising: 10
+campaign: 10
+election: 9
+donation: 9
+
+urgency: 7
+support: 30
+encouragement: 15
+advocacy: 10
+opposition: 10
+
+
+positive: 29
+neutral: 2
+
+Massachusetts: 13

@@ -1,0 +1,95 @@
+Donald Trump
+238
+
+election: 92
+strategy: 6
+fundraising: 71
+urgency: 6
+deadline: 5
+support: 44
+politics: 13
+campaign: 84
+endorsement: 12
+poll: 14
+contribution: 8
+funding: 5
+democracy: 24
+reelection: 5
+Trump: 7
+donation: 52
+Social Security: 7
+history: 5
+Supreme Court: 8
+Senate: 16
+senate: 5
+donations: 5
+voting: 7
+elections: 5
+legislation: 10
+progress: 5
+Election: 7
+policy: 6
+polling: 5
+abortion: 9
+
+support: 198
+progress: 18
+rallying: 8
+determination: 6
+opposition: 109
+threat: 13
+encouragement: 60
+endorsement: 47
+critique: 12
+attack: 11
+advocacy: 14
+criticism: 32
+urgency: 21
+danger: 6
+victory: 6
+challenge: 17
+targeted: 9
+solidarity: 8
+solicitation: 9
+fight: 13
+defend: 8
+democracy: 6
+motivation: 7
+concern: 8
+far-right: 7
+conservative: 6
+defeat: 14
+historic progress: 6
+supportive: 12
+charges: 6
+extremism: 12
+negative: 6
+leadership: 10
+competition: 6
+request: 7
+dangerous: 8
+extreme: 6
+defense: 8
+rally: 6
+protect: 7
+urgent: 6
+collaboration: 6
+
+
+neutral: 19
+positive: 70
+negative: 153
+
+Nevada: 13
+Delaware: 1
+02120: 3
+Arizona: 11
+Pennsylvania: 5
+Missouri: 4
+Ohio: 2
+Virginia: 1
+Iowa: 1
+Wisconsin: 1
+Massachusetts: 1
+Texas: 1
+South Carolina: 3

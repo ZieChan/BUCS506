@@ -1,0 +1,23 @@
+Dan Osborn
+40
+
+fundraising: 28
+election: 25
+campaign: 33
+donation: 11
+senate: 5
+
+support: 35
+encouragement: 19
+opposition: 29
+challenge: 8
+defeat: 8
+criticism: 8
+critique: 9
+disapproval: 13
+
+
+positive: 40
+
+Nebraska: 37
+NE: 1

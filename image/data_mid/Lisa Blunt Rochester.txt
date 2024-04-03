@@ -1,0 +1,24 @@
+Lisa Blunt Rochester
+55
+
+fundraising: 35
+election: 17
+representation: 6
+diversity: 5
+campaign: 23
+Senate: 11
+history: 12
+donation: 14
+support: 7
+
+support: 61
+encouragement: 30
+urgency: 10
+advocacy: 8
+endorsement: 14
+opposition: 15
+
+
+positive: 55
+
+Delaware: 39

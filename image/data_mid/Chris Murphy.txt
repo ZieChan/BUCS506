@@ -1,0 +1,20 @@
+Chris Murphy
+36
+
+fundraising: 18
+campaign: 13
+election: 7
+donation: 10
+
+support: 23
+urgency: 6
+encouragement: 10
+opposition: 6
+
+
+positive: 34
+negative: 2
+
+Connecticut: 5
+Massachusetts: 1
+Texas: 1

@@ -1,0 +1,32 @@
+Angela Alsobrooks
+77
+
+fundraising: 41
+Senate: 7
+campaign: 53
+election: 17
+donation: 15
+Campaign: 5
+support: 13
+grassroots: 6
+advertisement: 5
+
+support: 54
+encouragement: 22
+criticism: 9
+opposition: 15
+grassroots: 9
+advocacy: 6
+urgency: 11
+enthusiasm: 7
+supportive: 6
+
+
+positive: 70
+negative: 3
+neutral: 4
+Maryland: 1
+
+Maryland: 61
+Ohio: 1
+Arizona: 1

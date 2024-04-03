@@ -1,0 +1,23 @@
+Jon Tester
+50
+
+fundraising: 33
+election: 18
+campaign: 35
+support: 9
+grassroots: 6
+donation: 16
+Senate: 5
+
+support: 56
+urgency: 19
+opposition: 20
+supportive: 6
+encouragement: 21
+mobilization: 6
+
+
+positive: 50
+
+Montana: 47
+California: 1

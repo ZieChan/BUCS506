@@ -1,0 +1,57 @@
+Ted Cruz
+193
+
+fundraising: 114
+election: 113
+campaign: 133
+deadline: 5
+support: 21
+donation: 43
+momentum: 13
+representation: 8
+Senate: 8
+endorsement: 7
+leadership: 11
+democracy: 5
+victory: 6
+urgency: 5
+
+urgency: 26
+support: 154
+momentum: 21
+defeat: 52
+competition: 20
+encouragement: 89
+challenge: 30
+opposition: 114
+advocacy: 7
+endorsement: 10
+hopeful: 13
+mobilization: 11
+extremism: 11
+vulnerable: 15
+hope: 8
+grassroots: 6
+criticism: 38
+commitment: 6
+fight: 7
+victory: 9
+motivation: 27
+critique: 7
+failure: 6
+leadership: 10
+determination: 16
+enthusiasm: 12
+dedication: 12
+optimism: 6
+gratitude: 10
+vulnerability: 8
+supportive: 6
+
+
+negative: 189
+positive: 5
+neutral: 2
+
+Texas: 171
+no specified state: 1

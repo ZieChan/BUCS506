@@ -1,0 +1,39 @@
+Kirsten Gillibrand
+98
+
+election: 41
+donation: 25
+fundraising: 47
+politics: 5
+campaign: 33
+legislation: 12
+support: 20
+Senate: 5
+reproductive rights: 6
+
+dedicated: 6
+supportive: 17
+support: 98
+urgency: 29
+urgent: 7
+opposition: 31
+gratitude: 9
+progress: 6
+advocacy: 18
+endorsement: 10
+threat: 9
+encouragement: 30
+partnership: 7
+defeat: 9
+challenge: 7
+attack: 7
+victory: 6
+
+
+positive: 97
+neutral: 2
+
+New York: 37
+Alabama: 1
+Unspecified: 1
+Wisconsin: 1

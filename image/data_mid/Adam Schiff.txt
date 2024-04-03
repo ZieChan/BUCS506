@@ -1,0 +1,42 @@
+Adam Schiff
+125
+
+fundraising: 67
+election: 59
+campaign: 66
+donation: 38
+support: 25
+funding: 6
+democracy: 11
+Senate: 7
+politics: 6
+endorsement: 6
+strategy: 8
+
+support: 115
+encouragement: 63
+motivation: 14
+determination: 6
+opposition: 48
+criticism: 26
+urgency: 24
+attack: 6
+critique: 9
+competition: 9
+appeal: 7
+fight: 6
+endorsement: 13
+challenge: 7
+supportive: 9
+concern: 6
+strategy: 7
+manipulation: 10
+
+
+positive: 102
+negative: 21
+neutral: 4
+
+California: 60
+Nevada: 1
+Golden State: 1

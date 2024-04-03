@@ -1,0 +1,27 @@
+Dave McCormick
+59
+
+fundraising: 27
+election: 12
+campaign: 37
+Senate: 11
+donation: 10
+support: 6
+endorsement: 6
+politics: 5
+leadership: 11
+terrorism: 5
+
+support: 39
+leadership: 16
+commitment: 11
+opposition: 10
+endorsement: 10
+encouragement: 18
+dedication: 8
+
+
+positive: 60
+
+Pennsylvania: 57
+PA: 1

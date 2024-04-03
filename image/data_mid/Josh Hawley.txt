@@ -1,0 +1,65 @@
+Josh Hawley
+210
+
+fundraising: 81
+deadline: 9
+campaign: 123
+senate: 8
+election: 74
+support: 27
+donation: 47
+politics: 14
+competition: 5
+survey: 7
+urgency: 9
+abortion: 11
+funding: 6
+corruption: 8
+Senate: 9
+faith: 6
+email: 5
+merchandise: 7
+endorsement: 9
+
+support: 177
+appeal: 6
+encouragement: 55
+mobilization: 7
+opposition: 67
+criticism: 43
+advocacy: 14
+determination: 9
+solidarity: 7
+endorsement: 45
+corruption: 21
+promotion: 8
+control: 20
+critique: 9
+urgency: 19
+solicitation: 11
+urgent: 7
+hopeful: 6
+service: 6
+fight: 9
+fraud: 11
+coward: 7
+out-of-touch: 6
+dedication: 7
+vulnerable: 7
+grassroots: 7
+empowerment: 6
+conservative: 9
+vulnerability: 10
+challenge: 12
+supportive: 11
+defeat: 6
+motivation: 11
+
+
+positive: 96
+negative: 112
+neutral: 7
+Positive: 1
+
+Missouri: 123
+No State: 1

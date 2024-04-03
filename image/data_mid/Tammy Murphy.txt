@@ -1,0 +1,14 @@
+Tammy Murphy
+24
+
+campaign: 12
+endorsement: 6
+fundraising: 12
+
+support: 17
+encouragement: 7
+
+
+positive: 24
+
+New Jersey: 20

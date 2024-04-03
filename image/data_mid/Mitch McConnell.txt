@@ -1,0 +1,58 @@
+Mitch McConnell
+132
+
+fundraising: 103
+election: 57
+support: 26
+senate: 5
+campaign: 83
+politics: 13
+faith: 6
+Senate: 12
+Election: 5
+urgency: 18
+donation: 26
+reelection: 5
+advertisement: 5
+
+support: 151
+encouragement: 73
+urgency: 59
+recruitment: 12
+opposition: 138
+criticism: 17
+solicitation: 7
+competition: 20
+urgent: 12
+defeat: 8
+request: 6
+threat: 21
+motivation: 8
+strategy: 13
+manipulation: 7
+critique: 7
+grassroots: 9
+challenge: 21
+dedication: 6
+supportive: 6
+historic progress: 6
+endorsement: 9
+commitment: 8
+progress: 9
+attack: 11
+determination: 6
+appeal: 8
+target: 9
+concern: 8
+
+
+negative: 149
+neutral: 4
+positive: 1
+
+Nevada: 19
+Not specified: 1
+Arizona: 3
+Ohio: 2
+not specified: 1
+Wisconsin: 1

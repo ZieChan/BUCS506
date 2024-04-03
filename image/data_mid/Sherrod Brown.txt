@@ -1,0 +1,29 @@
+Sherrod Brown
+56
+
+campaign: 28
+election: 25
+support: 13
+fundraising: 34
+funding: 5
+donation: 12
+Senate: 7
+advertisement: 8
+
+opponent: 6
+wealthy: 10
+gratitude: 7
+support: 66
+urgent: 7
+opposition: 24
+encouragement: 21
+collaboration: 8
+solicitation: 7
+urgency: 24
+request: 7
+attack: 6
+
+
+positive: 56
+
+Ohio: 53

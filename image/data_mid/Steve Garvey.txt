@@ -1,0 +1,29 @@
+Steve Garvey
+61
+
+campaign: 25
+fundraising: 34
+election: 37
+donation: 17
+support: 10
+funding: 5
+strategy: 13
+
+support: 48
+urgency: 23
+encouragement: 20
+opposition: 38
+competition: 13
+criticism: 13
+determination: 6
+endorsement: 6
+challenge: 7
+manipulation: 13
+strategy: 9
+
+
+negative: 42
+neutral: 19
+positive: 2
+
+California: 28

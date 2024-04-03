@@ -1,0 +1,39 @@
+Lucas Kunce
+115
+
+fundraising: 40
+senate: 7
+election: 48
+campaign: 98
+support: 12
+donation: 41
+Senate: 6
+abortion: 11
+corruption: 8
+endorsement: 6
+
+support: 96
+encouragement: 34
+opposition: 43
+criticism: 36
+determination: 9
+endorsement: 22
+corruption: 18
+control: 20
+advocacy: 12
+fight: 8
+fraud: 11
+coward: 7
+out-of-touch: 6
+dedication: 7
+vulnerable: 7
+grassroots: 6
+empowerment: 7
+vulnerability: 10
+motivation: 6
+
+
+positive: 114
+neutral: 1
+
+Missouri: 115

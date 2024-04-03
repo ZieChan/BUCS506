@@ -1,0 +1,48 @@
+Tammy Baldwin
+128
+
+fundraising: 67
+campaign: 86
+deadline: 8
+election: 52
+advertising: 6
+donation: 40
+funding: 9
+support: 21
+senate: 6
+advertisement: 9
+endorsement: 5
+Senate: 7
+
+support: 125
+encouragement: 60
+criticism: 15
+opposition: 65
+urgency: 35
+advocacy: 7
+wealthy: 10
+self-funding: 6
+mobilization: 7
+spending: 9
+challenge: 23
+motivation: 7
+competition: 10
+fight: 6
+threat: 10
+grassroots: 8
+urgent: 8
+victory: 6
+endorsement: 9
+collaboration: 6
+unity: 6
+defense: 7
+defeat: 8
+right-wing: 6
+
+
+positive: 122
+negative: 6
+neutral: 1
+
+Wisconsin: 98
+Arizona: 1

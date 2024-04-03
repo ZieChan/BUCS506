@@ -1,0 +1,45 @@
+Colin Allred
+141
+
+campaign: 98
+fundraising: 83
+election: 84
+support: 8
+donation: 32
+Senate: 10
+endorsement: 5
+leadership: 6
+victory: 5
+momentum: 8
+
+urgency: 20
+support: 122
+momentum: 14
+defeat: 39
+competition: 19
+encouragement: 71
+advocacy: 6
+opposition: 89
+challenge: 22
+endorsement: 8
+hopeful: 7
+mobilization: 14
+commitment: 6
+criticism: 19
+leadership: 11
+motivation: 24
+critique: 6
+failure: 6
+dedication: 9
+enthusiasm: 7
+optimism: 6
+gratitude: 6
+determination: 14
+vulnerable: 8
+extremism: 6
+
+
+positive: 142
+
+Texas: 127
+no specified state: 1

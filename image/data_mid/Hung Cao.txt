@@ -1,0 +1,36 @@
+Hung Cao
+92
+
+fundraising: 45
+politics: 10
+deadline: 9
+election: 29
+urgency: 5
+support: 13
+campaign: 50
+endorsement: 10
+military: 12
+patriotism: 9
+Senate: 7
+leadership: 7
+
+support: 45
+encouragement: 22
+dedication: 18
+opposition: 26
+criticism: 16
+supportive: 10
+patriotic: 6
+service: 9
+urgency: 10
+determination: 7
+patriotism: 6
+endorsement: 8
+leadership: 9
+unspecified: 7
+
+
+positive: 91
+negative: 1
+
+Virginia: 88

@@ -1,0 +1,39 @@
+Ruben Gallego
+124
+
+campaign: 90
+fundraising: 59
+election: 41
+support: 10
+donation: 54
+Senate: 19
+democracy: 5
+endorsement: 6
+urgency: 9
+senate: 5
+deadline: 8
+
+support: 116
+urgency: 18
+mobilization: 7
+opposition: 69
+radical: 14
+encouragement: 59
+motivation: 9
+criticism: 8
+defeat: 20
+competition: 11
+prevention: 7
+victory: 7
+challenge: 15
+endorsement: 8
+dangerous: 6
+uncertainty: 6
+
+
+negative: 31
+positive: 95
+Negative: 1
+
+Arizona: 107
+no state mentioned: 1

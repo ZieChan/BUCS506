@@ -1,0 +1,49 @@
+Ruben
+31
+
+campaign: 114
+fundraising: 74
+election: 51
+support: 13
+donation: 65
+Senate: 21
+endorsement: 9
+deadline: 11
+democracy: 6
+urgency: 12
+senate: 6
+competition: 7
+
+support: 136
+urgency: 27
+mobilization: 8
+opposition: 85
+radical: 14
+encouragement: 67
+motivation: 13
+criticism: 8
+defeat: 26
+competition: 16
+opponent: 6
+extremism: 6
+prevention: 9
+victory: 8
+exclusion: 6
+challenge: 18
+endorsement: 8
+request: 7
+help: 6
+neutral: 6
+urgent: 6
+dangerous: 6
+uncertainty: 7
+leading: 7
+
+
+negative: 31
+positive: 125
+Negative: 1
+neutral: 1
+
+Arizona: 126
+no state mentioned: 1

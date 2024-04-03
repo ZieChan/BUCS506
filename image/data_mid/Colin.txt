@@ -1,0 +1,54 @@
+Colin
+43
+
+campaign: 125
+fundraising: 110
+election: 105
+deadline: 6
+support: 14
+donation: 38
+momentum: 12
+representation: 8
+Senate: 10
+endorsement: 7
+leadership: 11
+victory: 6
+urgency: 5
+
+urgency: 29
+support: 150
+momentum: 20
+defeat: 45
+competition: 20
+encouragement: 85
+challenge: 28
+opposition: 106
+advocacy: 6
+endorsement: 8
+hopeful: 12
+mobilization: 15
+extremism: 10
+vulnerable: 14
+hope: 7
+grassroots: 6
+criticism: 29
+commitment: 6
+fight: 7
+leadership: 13
+victory: 9
+motivation: 26
+critique: 6
+failure: 6
+determination: 17
+enthusiasm: 10
+dedication: 10
+optimism: 6
+gratitude: 7
+vulnerability: 8
+supportive: 6
+
+
+positive: 186
+
+Texas: 159
+no specified state: 1
